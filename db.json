@@ -1,5 +1,8 @@
 {
   "home_page": {
+    "logo":{
+      "cover":"https://envytheme.ir/fovia/rtl/assets/img/logo.png"
+    },
     "menus": [
       {
         "id": 1,
