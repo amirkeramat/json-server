@@ -269,50 +269,32 @@
       "label": "بازخورد",
       "title": "بازخورد مشتری",
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
-      "covers": [
-        {
-          "id": 1,
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/1.jpg"
-        },
-        {
-          "id": 1,
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/2.jpg"
-        },
-        {
-          "id": 1,
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/3.jpg"
-        },
-        {
-          "id": 1,
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/4.jpg"
-        },
-        {
-          "id": 1,
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/5.jpg"
-        }
-      ],
       "comment": [
         {
           "id": 1,
           "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/1.jpg",
           "username": "پارک جین سونگ",
           "role": "موسس"
         },
         {
           "id": 2,
           "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/2.jpg",
           "username": "سونگ ایلگوک",
           "role": "مدیرعامل"
         },
         {
           "id": 3,
           "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/3.jpg",
           "username": "موپالمو رحیمی",
           "role": "پزشک"
         },
         {
           "id": 4,
           "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/client-image/4.jpg",
           "username": "جانی دپ",
           "role": "کاربر عادی"
         }
@@ -359,7 +341,7 @@
           "writer": "الیشا دیویس",
           "createdAt": "1 شهریور 1401",
           "more": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
-          "cover":"https://envytheme.ir/fovia/rtl/assets/img/blog/1.jpg"
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/blog/1.jpg"
         },
         {
           "id": 2,
@@ -367,8 +349,7 @@
           "writer": "الیشا دیویس",
           "createdAt": "1 شهریور 1401",
           "more": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
-          "cover":"https://envytheme.ir/fovia/rtl/assets/img/blog/2.jpg"
-          
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/blog/2.jpg"
         },
         {
           "id": 3,
@@ -376,7 +357,7 @@
           "writer": "الیشا دیویس",
           "createdAt": "1 شهریور 1401",
           "more": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
-          "cover":"https://envytheme.ir/fovia/rtl/assets/img/blog/3.jpg"
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/blog/3.jpg"
         }
       ]
     }
