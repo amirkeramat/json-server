@@ -1,7 +1,7 @@
 {
   "home_page": {
-    "logo":{
-      "cover":"https://envytheme.ir/fovia/rtl/assets/img/logo.png"
+    "logo": {
+      "cover": "https://envytheme.ir/fovia/rtl/assets/img/logo.png"
     },
     "menus": [
       {
@@ -57,14 +57,14 @@
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/main-banner1.jpg"
         },
         {
-          "id": 1,
+          "id": 2,
           "label": "سلامت بانوان",
           "title": "مراقبت استثنایی برای بانوان",
           "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/main-banner2.jpg"
         },
         {
-          "id": 1,
+          "id": 3,
           "label": "خدمات بهداشتی",
           "title": "سلامتی شما اولویت اصلی ما است",
           "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
@@ -94,7 +94,7 @@
           {
             "id": 4,
             "title": "چشم پزشکی",
-            "description": "یکشبه تا پنجشنبه"
+            "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است."
           }
         ]
       }
