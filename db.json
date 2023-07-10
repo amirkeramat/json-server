@@ -306,6 +306,7 @@
     "common_questions": {
       "label": "سوالات متداول",
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+      "cover":"https://envytheme.ir/fovia/rtl/assets/img/faq-img1.jpg",
       "items": [
         {
           "id": 1,
