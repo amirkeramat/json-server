@@ -387,7 +387,8 @@
           {"id":6,"title":"عکس برداری"}
         ]}
       ],
-      "working_hour":[
+      "working_hour":{
+        "id":1,"label":"ساعت کاری","days":[
         {"id":1,"title":"شنبه","description":"۹صبح الی ۱۷ عصر"},
         {"id":2,"title":"یکشنبه","description":"۹صبح الی ۱۷ عصر"},
         {"id":3,"title":"دوشنبه","description":"۹صبح الی ۱۷ عصر"},
@@ -395,6 +396,7 @@
         {"id":5,"title":"چهارشنبه","description":"۹صبح الی ۱۷ عصر"},
         {"id":6,"title":"پنجشنبه","description":"۹صبح الی ۱۷ عصر"}
       ]
+      }
     }
   }
 }
