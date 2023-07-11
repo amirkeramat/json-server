@@ -271,7 +271,7 @@
       ]
     },
     "doctors": {
-      "label": "پرشکان",
+      "label": "پزشکان",
       "title": "پزشکان با تجربه ما",
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
       "cover":"https://envytheme.ir/fovia/rtl/assets/img/main-banner2.jpg",
@@ -302,26 +302,26 @@
         },
         {
           "id": 5,
-          "full_name": "دکتر تونی پینتو",
-          "Expertise": "پزشک اورژانس",
+          "full_name": "دکتر جنیفر لوپز ",
+          "Expertise": "جراح مغز و اعصاب",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/5.jpg"
         },
         {
           "id": 6,
-          "full_name": "دکتر تونی پینتو",
-          "Expertise": "پزشک اورژانس",
+          "full_name": "دکتر سارا وینکالین",
+          "Expertise": "پزشک مامایی",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/6.jpg"
         },
         {
           "id": 7,
-          "full_name": "دکتر تونی پینتو",
-          "Expertise": "پزشک اورژانس",
+          "full_name": "هیویو",
+          "Expertise": "پزشک اورولوژی",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/7.jpg"
         },
         {
           "id": 8,
-          "full_name": "دکتر تونی پینتو",
-          "Expertise": "پزشک اورژانس",
+          "full_name": "دکتر اسکارلت جوهانسون",
+          "Expertise": "پزشک زیبایی",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/8.jpg"
         }
       ]
@@ -537,48 +537,48 @@
           "id": 1,
           "full_name": "دکتر مالیسا فیرو",
           "Expertise": "متخصص قلب و عروق",
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/4.jpg"
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/1.jpg"
         },
         {
           "id": 2,
           "full_name": "دکتر آرون رودری",
           "Expertise": "جراح پروستات",
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/1.jpg"
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/2.jpg"
         },
         {
           "id": 3,
           "full_name": "دکتر چاد اسمیت",
           "Expertise": "جراح ,ارتوپد",
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/2.jpg"
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/3.jpg"
         },
         {
           "id": 4,
           "full_name": "دکتر تونی پینتو",
           "Expertise": "پزشک اورژانس",
-          "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/5.jpg"
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/4.jpg"
         },
         {
           "id": 5,
-          "full_name": "دکتر تونی پینتو",
-          "Expertise": "پزشک اورژانس",
+          "full_name": "دکتر جنیفر لوپز ",
+          "Expertise": "جراح مغز و اعصاب",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/5.jpg"
         },
         {
           "id": 6,
-          "full_name": "دکتر تونی پینتو",
-          "Expertise": "پزشک اورژانس",
+          "full_name": "دکتر سارا وینکالین",
+          "Expertise": "پزشک مامایی",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/6.jpg"
         },
         {
           "id": 7,
-          "full_name": "دکتر تونی پینتو",
-          "Expertise": "پزشک اورژانس",
+          "full_name": "هیویو",
+          "Expertise": "پزشک اورولوژی",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/7.jpg"
         },
         {
           "id": 8,
-          "full_name": "دکتر تونی پینتو",
-          "Expertise": "پزشک اورژانس",
+          "full_name": "دکتر اسکارلت جوهانسون",
+          "Expertise": "پزشک زیبایی",
           "cover": "https://envytheme.ir/fovia/rtl/assets/img/doctor/8.jpg"
         }
       ]
