@@ -6,45 +6,41 @@
     "menus": [
       {
         "id": 1,
-        "title": "خانه"
+        "title": "خانه",
+        "code":"/"
       },
       {
         "id": 2,
         "title": "پزشکان",
-        "subMenu": [
-          { "id": 1, "title": "پزشکان" },
-          { "id": 2, "title": "جزیات پزشکان" }
-        ]
+        "code":"doctors"
       },
       {
         "id": 3,
         "title": "بخش ها",
-        "subMenu": [
-          { "id": 1, "title": "بخش اول" },
-          { "id": 2, "title": "بخش دوم" },
-          { "id": 3, "title": "صفحه بخش ها" }
-        ]
+        "code":"parts"
       },
       {
         "id": 4,
         "title": "صفحات",
         "subMenu": [
-          { "id": 1, "title": "درباره ما" },
-          { "id": 2, "title": "نفرات تیم" },
-          { "id": 3, "title": "وقت ملاقات ها" },
-          { "id": 4, "title": "گالری" },
-          { "id": 5, "title": "سوالات" },
-          { "id": 6, "title": "شرایط استفاده از خدمات" },
-          { "id": 7, "title": "سیاست حفظ حریم خصوصی" }
+          { "id": 1, "title": "درباره ما","code":"about" },
+          { "id": 3, "title": "وقت ملاقات ها","code":"appointment"},
+          { "id": 4, "title": "گالری","code":"gallery" },
+          { "id": 5, "title": "سوالات","code":"questions" },
+          { "id": 6, "title": "شرایط استفاده از خدمات","code":"rules" },
+          { "id": 7, "title": "سیاست حفظ حریم خصوصی","code":"privacy" }
         ]
       },
       {
         "id": 5,
-        "title": "وبلاگ "
+        "title": "وبلاگ ",
+        "code":"blog"
+
       },
       {
         "id": 6,
-        "title": "تماس با ما"
+        "title": "تماس با ما",
+        "code":"contact"
       }
     ],
     "home": {
