@@ -396,4 +396,42 @@
       }
     }
   }
+  ,"services":[
+        {
+          "id": 1,
+          "title": "خدمات اولیه",
+          "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/services/1.jpg"
+        },
+        {
+          "id": 2,
+          "title": "پیوند کبد",
+          "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/services/2.jpg"
+        },
+        {
+          "id": 3,
+          "title": "پیوند کلیه",
+          "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/services/3.jpg"
+        },
+        {
+          "id": 4,
+          "title": "بیماری قلبی عروقی",
+          "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/services/4.jpg"
+        },
+        {
+          "id": 5,
+          "title": "دندان پزشکی",
+          "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/services/5.jpg"
+        },
+        {
+          "id": 6,
+          "title": "رادیولوژی",
+          "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است.",
+          "cover": "https://envytheme.ir/fovia/rtl/assets/img/services/6.jpg"
+        }
+      ]
 }
